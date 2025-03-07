@@ -13,22 +13,36 @@ The dataset used for this project is named marketing_campaign.csv and contains i
 Columns in the dataset include:
 
 ID: Unique customer ID
+
 Year_Birth: Year of birth of the customer
+
 Education: Level of education
+
 Marital_Status: Marital status of the customer
+
 Income: Annual income of the customer
+
 Dt_Customer: Date of enrollment in the company
+
 Recency: Number of days since last purchase
+
 MntWines, MntFruits, etc.: Amount spent on different products
+
 NumDealsPurchases, NumWebPurchases, etc.: Number of purchases made through different channels
 
 
 Technologies Used
+
 Python: Programming language used for the project
+
 Pandas: For data manipulation and analysis
+
 Matplotlib & Seaborn: For data visualization and plotting
+
 Scikit-learn: For implementing the KMeans clustering algorithm
+
 Yellowbrick: For visualizing the KMeans elbow method
+
 Jupyter Notebook: For running the project code
 
 
